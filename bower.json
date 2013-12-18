@@ -1,0 +1,17 @@
+{
+  "name": "bower-travis-test",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "1.2.3",
+    "angular-bootstrap": "~0.7.0",
+    "angular-contenteditable": "0.3.6",
+    "angular-ui-utils": "~0.0.4",
+    "angular-animate": "~1.2.3",
+    "angular-moment": "~0.2.1",
+    "angular-ui": "~0.4.0",
+    "angular-ui-router": "~0.2.7"
+  },
+  "resolutions": {
+    "angular": "1.2.3"
+  }
+}

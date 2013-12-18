@@ -1,0 +1,4 @@
+language: nodejs
+node: '0.10'
+before_script:
+  - 'npm install -g bower'

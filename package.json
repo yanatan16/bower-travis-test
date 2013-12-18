@@ -1,0 +1,19 @@
+{
+  "name": "bower-travis-test",
+  "version": "0.0.0",
+  "description": "A test repo for an error in bower",
+  "main": "index.js",
+  "scripts": {
+    "test": "bower install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yanatan16/bower-travis-test"
+  },
+  "author": "Jon Eisen <jon@joneisen.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanatan16/bower-travis-test/issues"
+  },
+  "homepage": "https://github.com/yanatan16/bower-travis-test"
+}
